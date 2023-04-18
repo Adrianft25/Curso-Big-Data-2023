@@ -1,2 +1,3 @@
 # Curso-Big-Data-2023
-Ejercicios y proyectos del curso
+
+Ejercicios y proyectos del curso. Jupyter notebooks
