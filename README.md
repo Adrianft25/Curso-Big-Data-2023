@@ -26,3 +26,7 @@ dataset_part_2.csv - Archivo final de SpaceX2
 
 dataset_part_002.csv - Archivo a utilizar con SpaceX4
 
+# Dia 3
+
+Predicción de valores con Prophet - Uso de Prophet para predicciones
+
