@@ -33,3 +33,6 @@ Predicción de valores con Prophet - Uso de Prophet para predicciones con datos 
 Introducción a Machine Learning con Scikit-Learn - Uso de Scikit-Learn para prediccion de valores
 
 Folium - Uso de Folium para mostrar datos sobre mapas y hacerlos interactivos
+
+# Dia 4
+
