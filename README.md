@@ -28,5 +28,5 @@ dataset_part_002.csv - Archivo a utilizar con SpaceX4
 
 # Dia 3
 
-Predicción de valores con Prophet - Uso de Prophet para predicciones
+Predicción de valores con Prophet - Uso de Prophet para predicciones con datos de Yahoo Finance
 
