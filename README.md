@@ -36,3 +36,10 @@ Folium - Uso de Folium para mostrar datos sobre mapas y hacerlos interactivos
 
 # Dia 4
 
+SpaceX2 Interactive Visual Analytics con Folium - Mapas interactivos con Folium sobre dataset de SpaceX
+
+SpaceX2 Machine learning predicciones - Predicciones con diferentes modelos usando Matrices de Confusión
+
+Regresión Lineal - Ejercicios para Regresión Lineal
+
+SpaceX EDA Using SQL - Ejercicios con python y SQL
