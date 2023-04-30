@@ -43,3 +43,7 @@ SpaceX2 Machine learning predicciones - Predicciones con diferentes modelos usan
 Regresión Lineal - Ejercicios para Regresión Lineal
 
 SpaceX EDA Using SQL - Ejercicios con python y SQL
+
+# Extra
+
+Plotly - Visualización de datos con Plotly
